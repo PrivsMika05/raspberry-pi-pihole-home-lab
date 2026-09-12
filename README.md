@@ -159,11 +159,11 @@ The system successfully blocked domains included in the configured Pi-hole block
 
 ### Query Log
 
-![Pi-hole Query Log](query-log.jpeg)
+![Pi-hole Query Log](query-log.jfif)
 
 ### DNS Test
 
-![DNS Test](dns-test.jfif)
+![DNS Test](dns-test.jpeg)
 
 > Screenshots are included to demonstrate the working state of the project. Sensitive network information should be removed or anonymized before publication.
 
