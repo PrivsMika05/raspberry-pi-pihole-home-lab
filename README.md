@@ -155,7 +155,7 @@ The system successfully blocked domains included in the configured Pi-hole block
 
 ### Pi-hole Dashboard
 
-![Pi-hole Dashboard](screenshots/dashboard.png)
+![Pi-hole Dashboard](dashboard.png)
 
 ### Query Log
 
