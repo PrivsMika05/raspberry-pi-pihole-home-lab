@@ -20,7 +20,7 @@ The project is also the foundation for a larger home cybersecurity lab that will
                              │
                      ┌───────▼───────┐
                      │     Router    │
-                     │ 192.168.0.1   │
+                     │ 192.168.0.x   │
                      └───────┬───────┘
                              │
                          Ethernet
@@ -61,7 +61,7 @@ The Raspberry Pi is connected to the local network through Ethernet.
 
 | Component    | Configuration          |
 | ------------ | ---------------------- |
-| Router       | `192.168.0.1`          |
+| Router       | `192.168.0.x`          |
 | Raspberry Pi | `192.168.0.X`          |
 | Interface    | `eth0`                 |
 | Connection   | Ethernet               |
